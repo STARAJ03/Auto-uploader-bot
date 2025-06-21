@@ -3,12 +3,12 @@ import os
 ##Code Written By @ItsMeMaster
 
 class Config(object):
-    BOT_TOKEN = "8171558787:AAFgfebA4U1o1tJujga88XeRS1yk1QJhwRI"
+    BOT_TOKEN = "7743917201:AAGBjqqFVK7orEWj2bBO2g13-Ro0Qs_agQ4"
     DB_NAME = "yassu"
-    API_ID = "22849789"
-    API_HASH = "0fc127c6055acd59f00ec6c229e1e3c4"
-    ADMIN_ID = "1144684909"
+    API_ID = "27765349"
+    API_HASH = "9df1f705c8047ac0d723b29069a1332b"
+    ADMIN_ID = "1116405290"
     DB_URL = "mongodb+srv://yassu:Yash2835P@classxbot.bbodynd.mongodb.net/"
-    LOG_CHANNEL = "https://t.me/+aPD-Yb-TUCkzN2U1"
+    LOG_CHANNEL = "https://t.me/+N5xSRah10TZlNmY1"
     USERLINK = ""
     TUTORIAL_VIDEO = ""
